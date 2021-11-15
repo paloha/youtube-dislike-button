@@ -11,6 +11,6 @@ YouTube is making the dislike count private [[1](https://blog.youtube/news-and-e
 
 This should work on most of the desktop browsers, no guarantees though. The code is simple and self-explanatory, basically it only finds the comment section, types in the comment, and hits the submit button. It is so simple, that in case it does not work, at least it won't break anything.
 
-Feel free to create an issue [in the repository](https://github.com/paloha/youtube-dislike-button) if you find some problem. I will feel free to decide whether I do something about it :smiley: In the end, this is a two-hour weekend project for fun.
+Feel free to create an issue [in the repository](https://github.com/paloha/youtube-dislike-button) if you find some problem. I will feel free to decide whether I do something about it :) In the end, this is a two-hour weekend project for fun.
 
 Acknowledgement: Thanks YouTube Rewind 2018 for being a "dislike testing dummy".
